@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/vJJrgtg/Fire-Shot-Capture-364-Ambient-Music-localhost.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/vJJrgtg/Fire-Shot-Capture-364-Ambient-Music-localhost.png" alt="project-screenshot" />
 
 <h2>🛠️ Installation Steps:</h2>
 
